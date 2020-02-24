@@ -7,3 +7,6 @@ computer services for use by other people. Topics include system management (par
 with virtual machine hosting, using Amazon AWS), configuration management and automation;
 communicating and working with other system administrators and your user community; security;
 system reliability; and ethics.
+
+The irectories *defaultName* and *defaultName-puppet* are where both projects and assignments
+are stored.
