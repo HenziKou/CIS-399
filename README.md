@@ -8,5 +8,7 @@ with virtual machine hosting, using Amazon AWS), configuration management and au
 communicating and working with other system administrators and your user community; security;
 system reliability; and ethics.
 
-The directories `defaultName` and `defaultName-puppet` are where both projects and assignments
-are stored.
+The directories `defaultName` and `defaultName-puppet` are where assignments in
+[Markdown](https://daringfireball.net/projects/markdown/basics) and
+[Puppet](https://puppet.com/try-puppet/puppet-learning-vm/) programming language are stored
+respectively.
