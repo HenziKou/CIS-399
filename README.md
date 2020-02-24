@@ -8,5 +8,5 @@ with virtual machine hosting, using Amazon AWS), configuration management and au
 communicating and working with other system administrators and your user community; security;
 system reliability; and ethics.
 
-The directories *defaultName* and *defaultName-puppet* are where both projects and assignments
+The directories `defaultName` and `defaultName-puppet` are where both projects and assignments
 are stored.
